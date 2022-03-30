@@ -1,0 +1,2 @@
+#https://hub.docker.com/layers/juice-shop/bkimminich/juice-shop/latest/images/sha256-cc936d5b92ddb9741fc22f79fe879be62dbc1122fe3ca3042ef612f2b77a1011?context=explore
+FROM bkimminich/juice-shop@sha256:cc936d5b92ddb9741fc22f79fe879be62dbc1122fe3ca3042ef612f2b77a1011
